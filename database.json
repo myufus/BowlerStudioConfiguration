@@ -17,7 +17,6 @@
     "firstVersion": "0.19.2",
     "skinBranch": "master",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.2",
-    "notifiedArduinoDep": true
+    "currentVersion": "0.19.2"
   }
 }
