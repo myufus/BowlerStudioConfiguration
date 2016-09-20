@@ -8,9 +8,29 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/9bd4770f4c218d8890ed2dfef6234f45.git:measurement.groovy": [
+      "https://gist.github.com/9bd4770f4c218d8890ed2dfef6234f45.git",
+      "measurement.groovy"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
+    ],
     "https://gist.github.com/37b0f1366c6f24da68a334dd20abb8cc.git:cube.groovy": [
       "https://gist.github.com/37b0f1366c6f24da68a334dd20abb8cc.git",
       "cube.groovy"
+    ],
+    "https://gist.github.com/2b4d151f3d52a5565d5fc2ff986095e7.git:javaCad.groovy": [
+      "https://gist.github.com/2b4d151f3d52a5565d5fc2ff986095e7.git",
+      "javaCad.groovy"
+    ],
+    "https://gist.github.com/c63a2bd0c9cbf37b26348fec4f01a1cc.git:servoPrntTest.groovy": [
+      "https://gist.github.com/c63a2bd0c9cbf37b26348fec4f01a1cc.git",
+      "servoPrntTest.groovy"
+    ],
+    "https://gist.github.com/3845bce9b9c5badd87139ba6812e49d2.git:VitaminsExample.groovy": [
+      "https://gist.github.com/3845bce9b9c5badd87139ba6812e49d2.git",
+      "VitaminsExample.groovy"
     ]
   },
   "BowlerStudioConfigs": {
