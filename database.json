@@ -8,15 +8,15 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/b6e3e513c3a2298306bea056e4a73122.git:firstThing.groovy": [
-      "https://gist.github.com/b6e3e513c3a2298306bea056e4a73122.git",
-      "firstThing.groovy"
+    "https://gist.github.com/37b0f1366c6f24da68a334dd20abb8cc.git:cube.groovy": [
+      "https://gist.github.com/37b0f1366c6f24da68a334dd20abb8cc.git",
+      "cube.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.2",
     "skinBranch": "master",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.2"
+    "currentVersion": "0.19.3"
   }
 }
