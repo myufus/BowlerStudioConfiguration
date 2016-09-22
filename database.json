@@ -16,6 +16,10 @@
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "servo.groovy"
     ],
+    ":": [
+      "",
+      ""
+    ],
     "https://gist.github.com/37b0f1366c6f24da68a334dd20abb8cc.git:cube.groovy": [
       "https://gist.github.com/37b0f1366c6f24da68a334dd20abb8cc.git",
       "cube.groovy"
