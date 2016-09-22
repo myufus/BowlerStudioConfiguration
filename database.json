@@ -8,17 +8,13 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/9bd4770f4c218d8890ed2dfef6234f45.git:measurement.groovy": [
-      "https://gist.github.com/9bd4770f4c218d8890ed2dfef6234f45.git",
-      "measurement.groovy"
-    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "servo.groovy"
     ],
-    ":": [
-      "",
-      ""
+    "https://gist.github.com/0ef4ee65dc9da5c2b293d9a361609ac7.git:interlockingPieces.groovy": [
+      "https://gist.github.com/0ef4ee65dc9da5c2b293d9a361609ac7.git",
+      "interlockingPieces.groovy"
     ],
     "https://gist.github.com/37b0f1366c6f24da68a334dd20abb8cc.git:cube.groovy": [
       "https://gist.github.com/37b0f1366c6f24da68a334dd20abb8cc.git",
