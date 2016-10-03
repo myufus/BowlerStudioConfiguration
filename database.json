@@ -7,6 +7,13 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
+  "Controller (Xbox One For Windows)": {
+    "jogKinz": "Y Rotation",
+    "jogLink": "Z Axis",
+    "jogKinslider": "X Rotation",
+    "jogKiny": "Y Axis",
+    "jogKinx": "X Axis"
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.2",
