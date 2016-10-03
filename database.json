@@ -14,12 +14,7 @@
     "jogKiny": "Y Axis",
     "jogKinx": "X Axis"
   },
-  "studio-open-git": {
-    "https://gist.github.com/3845bce9b9c5badd87139ba6812e49d2.git:VitaminsExample.groovy": [
-      "https://gist.github.com/3845bce9b9c5badd87139ba6812e49d2.git",
-      "VitaminsExample.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.2",
     "skinBranch": "master",
