@@ -14,7 +14,12 @@
     "jogKiny": "Y Axis",
     "jogKinx": "X Axis"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/myufus/VexVitaminScripts.git:scripts/standoff.groovy": [
+      "https://github.com/myufus/VexVitaminScripts.git",
+      "scripts/standoff.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.2",
     "skinBranch": "master",
