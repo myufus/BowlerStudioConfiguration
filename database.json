@@ -14,7 +14,12 @@
     "jogKiny": "Y Axis",
     "jogKinx": "X Axis"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/b6e3e513c3a2298306bea056e4a73122.git:firstThing.groovy": [
+      "https://gist.github.com/b6e3e513c3a2298306bea056e4a73122.git",
+      "firstThing.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.2",
     "skinBranch": "master",
