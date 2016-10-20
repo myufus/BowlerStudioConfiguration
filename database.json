@@ -15,9 +15,21 @@
     "jogKinx": "X Axis"
   },
   "studio-open-git": {
-    "https://gist.github.com/b6e3e513c3a2298306bea056e4a73122.git:firstThing.groovy": [
-      "https://gist.github.com/b6e3e513c3a2298306bea056e4a73122.git",
-      "firstThing.groovy"
+    "https://gist.github.com/375b47a8e071608688a1.git:Walking.groovy": [
+      "https://gist.github.com/375b47a8e071608688a1.git",
+      "Walking.groovy"
+    ],
+    "https://github.com/madhephaestus/laser-cut-robot.git:feetCad.groovy": [
+      "https://github.com/madhephaestus/laser-cut-robot.git",
+      "feetCad.groovy"
+    ],
+    "https://github.com/myufus/laser-cut-robot.git:LaserCutDog.xml": [
+      "https://github.com/myufus/laser-cut-robot.git",
+      "LaserCutDog.xml"
+    ],
+    "https://github.com/madhephaestus/laser-cut-robot.git:laserCutCad.groovy": [
+      "https://github.com/madhephaestus/laser-cut-robot.git",
+      "laserCutCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
