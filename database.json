@@ -15,6 +15,10 @@
     "jogKinx": "X Axis"
   },
   "studio-open-git": {
+    "https://github.com/myufus/laser-cut-robot.git:neckCad.groovy": [
+      "https://github.com/myufus/laser-cut-robot.git",
+      "neckCad.groovy"
+    ],
     "https://github.com/myufus/laser-cut-robot.git:LaserCutDog.xml": [
       "https://github.com/myufus/laser-cut-robot.git",
       "LaserCutDog.xml"
