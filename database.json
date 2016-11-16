@@ -19,6 +19,10 @@
       "https://github.com/myufus/laser-cut-robot.git",
       "laserCutCad.groovy"
     ],
+    "https://gist.github.com/375b47a8e071608688a1.git:Walking.groovy": [
+      "https://gist.github.com/375b47a8e071608688a1.git",
+      "Walking.groovy"
+    ],
     "https://github.com/myufus/laser-cut-robot.git:LaserCutDog.xml": [
       "https://github.com/myufus/laser-cut-robot.git",
       "LaserCutDog.xml"
