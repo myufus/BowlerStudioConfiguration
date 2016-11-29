@@ -15,13 +15,21 @@
     "jogKinx": "X Axis"
   },
   "studio-open-git": {
-    "https://gist.github.com/92364903c81a8364ebe38ea996f4678d.git:SpringCoilGenerator.groovy": [
-      "https://gist.github.com/92364903c81a8364ebe38ea996f4678d.git",
-      "SpringCoilGenerator.groovy"
+    "https://github.com/myufus/laser-cut-robot.git:laserCutCad.groovy": [
+      "https://github.com/myufus/laser-cut-robot.git",
+      "laserCutCad.groovy"
+    ],
+    "https://github.com/myufus/laser-cut-robot.git:LaserCutDog.xml": [
+      "https://github.com/myufus/laser-cut-robot.git",
+      "LaserCutDog.xml"
     ],
     ":": [
       "",
       ""
+    ],
+    "https://github.com/myufus/laser-cut-robot.git:feetCad.groovy": [
+      "https://github.com/myufus/laser-cut-robot.git",
+      "feetCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
