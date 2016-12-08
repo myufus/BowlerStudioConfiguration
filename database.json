@@ -23,6 +23,10 @@
       "",
       ""
     ],
+    "https://gist.github.com/a0f1098fc09d7b9d51cead0b587477c8.git:CableHang.groovy": [
+      "https://gist.github.com/a0f1098fc09d7b9d51cead0b587477c8.git",
+      "CableHang.groovy"
+    ],
     "https://gist.github.com/d285623ea8ffccb05d4a51e1671743d5.git:SVGExtrude.groovy": [
       "https://gist.github.com/d285623ea8ffccb05d4a51e1671743d5.git",
       "SVGExtrude.groovy"
