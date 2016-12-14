@@ -15,18 +15,6 @@
     "jogKinx": "X Axis"
   },
   "studio-open-git": {
-    "https://gist.github.com/077e957ebc1dae627293a47db951d204.git:Walking.groovy": [
-      "https://gist.github.com/077e957ebc1dae627293a47db951d204.git",
-      "Walking.groovy"
-    ],
-    "https://gist.github.com/dc0748f4c2b5095ad790f3c081605402.git:WalkingDriveEngine.groovy": [
-      "https://gist.github.com/dc0748f4c2b5095ad790f3c081605402.git",
-      "WalkingDriveEngine.groovy"
-    ],
-    ":": [
-      "",
-      ""
-    ],
     "https://gist.github.com/a0f1098fc09d7b9d51cead0b587477c8.git:CableHang.groovy": [
       "https://gist.github.com/a0f1098fc09d7b9d51cead0b587477c8.git",
       "CableHang.groovy"
