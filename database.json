@@ -15,18 +15,6 @@
     "jogKinx": "X Axis"
   },
   "studio-open-git": {
-    "https://github.com/myufus/laser-cut-robot.git:LaserCutDog.xml": [
-      "https://github.com/myufus/laser-cut-robot.git",
-      "LaserCutDog.xml"
-    ],
-    ":": [
-      "",
-      ""
-    ],
-    "https://gist.github.com/a0f1098fc09d7b9d51cead0b587477c8.git:CableHang.groovy": [
-      "https://gist.github.com/a0f1098fc09d7b9d51cead0b587477c8.git",
-      "CableHang.groovy"
-    ],
     "https://gist.github.com/406d4ef1d43d1eff495346d7051e71fd.git:AT-AT.xml": [
       "https://gist.github.com/406d4ef1d43d1eff495346d7051e71fd.git",
       "AT-AT.xml"
