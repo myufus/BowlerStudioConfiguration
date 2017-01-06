@@ -15,13 +15,13 @@
     "jogKinx": "X Axis"
   },
   "studio-open-git": {
+    "https://gist.github.com/myufus/2dda3aaa34279f4e8b8e9e4d52c7e1bd.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/myufus/2dda3aaa34279f4e8b8e9e4d52c7e1bd.git",
+      "LinkedCadEngine.groovy"
+    ],
     "https://gist.github.com/406d4ef1d43d1eff495346d7051e71fd.git:AT-AT.xml": [
       "https://gist.github.com/406d4ef1d43d1eff495346d7051e71fd.git",
       "AT-AT.xml"
-    ],
-    "https://github.com/myufus/laser-cut-robot.git:feetCad.groovy": [
-      "https://github.com/myufus/laser-cut-robot.git",
-      "feetCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
