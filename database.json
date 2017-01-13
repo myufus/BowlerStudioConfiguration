@@ -14,32 +14,7 @@
     "jogKiny": "Y Axis",
     "jogKinx": "X Axis"
   },
-  "studio-open-git": {
-    "https://github.com/DotSlash-CTF/Bulldog.git:Tail/tailDesign.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "Tail/tailDesign.groovy"
-    ],
-    "https://github.com/madhephaestus/laser-cut-robot.git:feetCad.groovy": [
-      "https://github.com/madhephaestus/laser-cut-robot.git",
-      "feetCad.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/feetCad.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "LegLinks/feetCad.groovy"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/Dog.xml": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "FullDog/Dog.xml"
-    ],
-    ":": [
-      "",
-      ""
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/TestingLegLinks.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "LegLinks/TestingLegLinks.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.2",
     "skinBranch": "0.20.3",
