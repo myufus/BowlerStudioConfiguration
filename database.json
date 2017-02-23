@@ -18,10 +18,6 @@
     "https://github.com/DotSlash-CTF/Bulldog.git:FullDog/Dog.xml": [
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "FullDog/Dog.xml"
-    ],
-    "https://github.com/DotSlash-CTF/Bulldog.git:tailCad.groovy": [
-      "https://github.com/DotSlash-CTF/Bulldog.git",
-      "tailCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
