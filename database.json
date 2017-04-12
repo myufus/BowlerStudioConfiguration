@@ -1,10 +1,10 @@
 {
   "Microsoft X-Box 360 pad": {
-    "jogKinz": "rz",
-    "jogLink": "x",
-    "jogKinslider": "slider",
-    "jogKiny": "y",
-    "jogKinx": "x"
+    "jogKinz": "x",
+    "jogLink": "rz",
+    "jogKinslider": "rx",
+    "jogKiny": "ry",
+    "jogKinx": "y"
   },
   "studio-open-web": {},
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
