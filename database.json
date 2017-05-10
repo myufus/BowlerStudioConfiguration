@@ -26,9 +26,13 @@
       "https://github.com/DotSlash-CTF/Bulldog.git",
       "FullDog/Dog.xml"
     ],
-    "https://gist.github.com/bcb4760a449190206170.git:DefaultDhSolver.groovy": [
-      "https://gist.github.com/bcb4760a449190206170.git",
-      "DefaultDhSolver.groovy"
+    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/LegMethods.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "LegLinks/LegMethods.groovy"
+    ],
+    "https://github.com/DotSlash-CTF/Bulldog.git:LegLinks/TestingLegLinks.groovy": [
+      "https://github.com/DotSlash-CTF/Bulldog.git",
+      "LegLinks/TestingLegLinks.groovy"
     ]
   },
   "BowlerStudioConfigs": {
